@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shlomo Shizgal's Design Blog"
+title: "Shlomo's Design Blog"
 date: 2017-08-21
 ---
 
