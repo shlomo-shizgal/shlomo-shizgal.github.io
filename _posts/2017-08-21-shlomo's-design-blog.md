@@ -4,8 +4,6 @@ title: "Shlomo Shizgal's Design Blog"
 date: 2017-08-21
 ---
 
-# Shlomo's Design Blog
-
 I created this blog with three purposes in mind:
 
 1. To give me a place to put down in an organized manner my thoughts about various poorly designed systems I encounter - from software with a poorly designed interface to simple mechanical systems that we encounter on a regular basis.
