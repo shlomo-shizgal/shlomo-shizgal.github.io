@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shlomo's design blog"
+title: "Why I'm doing this"
 date: 2017-08-21
 ---
 
