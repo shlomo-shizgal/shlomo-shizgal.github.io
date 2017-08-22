@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why I'm doing this"
-date: 2017-08-21
+date: 2017-08-23
 ---
 
 I created this blog with three purposes in mind:
