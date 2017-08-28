@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Shlomo Shizgal's personal site
+date:date: 2017-08-29
 ---
 I already have a blog on Wordpress where I write occasionally - mostly about Israeli politics and society - and mostly in Hebrew.
 
