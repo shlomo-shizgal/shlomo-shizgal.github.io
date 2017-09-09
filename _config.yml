@@ -1,3 +1,5 @@
 name: Shlomo Shizgal's personal site
 markdown: kramdown
 permalink: /design_blog/:year/:month/:day/:title
+plugins:
+  - jekyll-seo-tag
