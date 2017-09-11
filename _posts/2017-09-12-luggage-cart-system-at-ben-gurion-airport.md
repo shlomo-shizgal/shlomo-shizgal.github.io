@@ -43,4 +43,3 @@ For returning a cart:
 9. Leave the last message up until the user takes their card out, and then re-display the first screen (choose language) for the next user
 
 Note: There is one other issue that contributes to confusion and that is the fact that you can only get the money back on a credit card that was used to take a cart. However, this seems to be a policy decision and not a design-related one (perhaps to prevent destitute individuals from hanging out at the airport and making money from returning abandoned carts ?). So I can't see them changing this rule.
-=
