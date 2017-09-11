@@ -1,4 +1,4 @@
- 	---
+---
 layout: post
 title: "New luggage cart system at Ben-Gurion Airport"
 date: 2017-09-12
