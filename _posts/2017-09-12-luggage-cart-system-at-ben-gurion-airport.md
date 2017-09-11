@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "New luggage cart system at Ben-Gurion Airport"
+title: "The new luggage cart system at Ben-Gurion Airport"
 date: 2017-09-12
 ---
-
-# The new luggage cart system at Ben Gurion Airport
 
 Over the past few weeks, I was at the airport a number of times, and while there, I spent some time watching people interact with the new system at Ben Gurion for taking and returning luggage carts.
 
