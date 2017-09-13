@@ -17,7 +17,7 @@ These are my suggestions for how the system can be improved:
 
 Based on the above, I would have the screens set up as follows:
 
-For taking a cart:
+*For taking a cart:*
 1. First screen: choose a language
 2. Second screen: select the action (taking a cart vs returning a cart)
 3. Show message to put in a credit card
@@ -27,7 +27,7 @@ For taking a cart:
 7. Show message telling user they can now take a cart
 8. Leave the last message up until the user takes the cart, and then re-display the first screen (choose language) for the next user
 
-For returning a cart:
+*For returning a cart:*
 1. First screen: choose a language
 2. Second screen: select the action (returning a cart)
 3. Show message telling user to insert their credit card
