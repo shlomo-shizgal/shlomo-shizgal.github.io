@@ -11,14 +11,12 @@ The purpose of the system is pretty simple: to get people to return the carts to
 However, due to pretty poor design of the system, I noticed many people having trouble with it. My rough estimate is that at least one of every four people doesn't succeed in getting their 10 NIS deposit back.
 
 These are my suggestions for how the system can be improved:
-
 * Almost all the machines I saw were showing the text in English. It was clear that there were travelers who did not understand the English. I was a little shocked that at the Israeli airport there was no Hebrew. Then I saw at least one machine with a Hebrew interface. It took me quite a while to realize that there were very small flags in the top right corner of the screen, and users were meant to push these to change the language. Unfortunately, there is nothing about the flags that makes you think that they are "pushable". Ordinarily, items that can be pressed on a screen are designed so that they are obvious. The best approach here would be to have the first screen contain only clear buttons for selecting a language.
-
 * For some reason, alongside the screen there was a sign with instructions. If you're already computerizing a system, why not have all the instructions on the screen ? Or even better make sure that the interface is clear enough that you don't need dedicated instructions.
-
 * The order of required actions is not intuitive. In my opinion, the step that represents "why the user is there" should always be last. That way they're not going to forget anything. For example, in an ATM, the last step is to take your money. If it wasn't that way, you might forget your card in the machine. But if you came for the express purpose of taking out money, you're not going to forget the money. Same with the luggage carts. The person came to the machine to get a cart. So the last step should be to remove the cart.
 
 Based on the above, I would have the screens set up as follows:
+
 For taking a cart:
 1. First screen: choose a language
 2. Second screen: select the action (taking a cart vs returning a cart)
