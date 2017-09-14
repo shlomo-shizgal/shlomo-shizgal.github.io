@@ -10,7 +10,7 @@ The purpose of the system is pretty simple: to get people to return the carts to
 
 However, due to pretty poor design of the system, I noticed many people having trouble with it. My rough estimate is that at least one of every four people doesn't succeed in getting their 10 NIS deposit back.
 
-<img src="images/luggage_cart.jpeg" alt="Screen capture of luggage cart software" width="400">
+<img src="shlomo-shizgal.github.io/images/luggage_cart.jpeg" alt="Screen capture of luggage cart software" width="400">
 
 These are my suggestions for how the system can be improved:
 * Almost all the machines I saw were showing the text in English. It was clear that there were travelers who did not understand the English. I was a little shocked that at the Israeli airport there was no Hebrew. Then I saw at least one machine with a Hebrew interface. It took me quite a while to realize that there were very small flags in the top right corner of the screen, and users were meant to push these to change the language. Unfortunately, there is nothing about the flags that makes you think that they are "pushable". Ordinarily, items that can be pressed on a screen are designed so that they are obvious. The best approach here would be to have the first screen contain only clear buttons for selecting a language.
