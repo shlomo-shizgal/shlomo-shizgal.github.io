@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Car remotes that last and car remotes that don't"
-date: 2017-09-09
+date: 2017-10-03
 ---
 
 We have two Kia Fortes, both of which were purchased from leasing companies.
